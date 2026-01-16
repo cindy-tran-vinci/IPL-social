@@ -20,3 +20,4 @@ La fonction vérifie:
 ## Lancer le test
 ```bash
 npm test
+

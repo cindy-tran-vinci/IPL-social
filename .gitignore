@@ -1,0 +1,12 @@
+# macOs
+.DS_Store
+
+# VS CODE
+./vscode/*
+
+# Node
+node_modules/
+coverage/
+dist/
+*.log
+.env
